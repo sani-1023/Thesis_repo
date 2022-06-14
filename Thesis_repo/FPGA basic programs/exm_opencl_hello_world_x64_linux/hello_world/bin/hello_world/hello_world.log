@@ -1,0 +1,4 @@
+Compiler Command: aoc -march=emulator device/hello_world.cl -o bin/hello_world.aocx -board a10gx
+/home/abhishek/intelFPGA_pro/19.1/hld/linux64/bin/../../llvm/bin/aocl-opt: /home/abhishek/intelFPGA_pro/19.1/quartus/linux64/liblzma.so.5: no version information available (required by /lib64/libxml2.so.2)
+/home/abhishek/intelFPGA_pro/19.1/hld/linux64/bin/../../llvm/bin/aocl-clang: /home/abhishek/intelFPGA_pro/19.1/quartus/linux64/liblzma.so.5: no version information available (required by /lib64/libxml2.so.2)
+/home/abhishek/intelFPGA_pro/19.1/hld/llvm/bin/aocl-clang-8: /home/abhishek/intelFPGA_pro/19.1/quartus/linux64/liblzma.so.5: no version information available (required by /lib64/libxml2.so.2)
